@@ -14,7 +14,7 @@ function App() {
     });
   }, []);
 
-  return <Text>My awesome app</Text>;
+  return <Text>Sina Kordestani</Text>;
 }
 
 export default App;
